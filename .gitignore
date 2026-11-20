@@ -37,5 +37,3 @@ Thumbs.db
 # Local report, not needed to run the application
 /Results_and_Discussion_Glucose_Detection.docx
 /requiremnts.txt
-
-glucose_detection_api-main/
